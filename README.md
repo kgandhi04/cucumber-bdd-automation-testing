@@ -1,9 +1,9 @@
-# Cucumber BDD Automation Testing
+# Cucumber BDD Automation Testing 
 
 This repository contains a Cucumber-based BDD framework for automated testing of web applications.
 
 ## Features
-- Behavior-Driven Development (BDD) with Cucumber
+- Behavior-Driven Development (BDD)
 - Step definitions written in Ruby
 - Integration with Capybara and Selenium for browser automation
 - HTML reports for test results
